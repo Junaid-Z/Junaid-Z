@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Junaid-Z
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning as much as I can
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me ...
 
 <!---
